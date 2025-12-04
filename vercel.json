@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/medo2",
-      "destination": "/medo2.html"
-    }
-  ]
-}
